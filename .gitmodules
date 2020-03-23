@@ -2,3 +2,7 @@
 	path = machine-learning (Private)
 	url = https://github.com/patrikkj/machine-learning.git
 	branch = master
+[submodule "probabilistic-graphical-models"]
+	path = probabilistic-graphical-models (Private)
+	url = https://github.com/patrikkj/probabilistic-graphical-models.git
+	branch = master

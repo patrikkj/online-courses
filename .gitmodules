@@ -1,0 +1,4 @@
+[submodule "machine-learning"]
+	path = machine-learning (Private)
+	url = https://github.com/patrikkj/machine-learning.git
+	branch = master

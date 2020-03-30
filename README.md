@@ -1,5 +1,6 @@
 ### Machine Learning ([Certificate](https://www.coursera.org/account/accomplishments/records/XR9R5E8938SH))
-11 week course taught by Andrew Ng, Adjunct Professor of Computer Science at Stanford University.
+11 week course taught by Andrew Ng, Adjunct Professor of Computer Science at Stanford University.<br/>
+Course delivered by Stanford University on Coursera.
 <details>
   <summary>Syllabus (click to expand)</summary>
   
@@ -19,9 +20,11 @@
 > Application Example: Photo OCR
 </details>
 
+----
 
 ### Probabilistic Graphical Models ([Certificate](https://www.coursera.org/account/accomplishments/records/TUDYP274U5RL))
-4 week course taught by Daphne Koller, professor at Stanford University.
+4 week course taught by Daphne Koller, professor at Stanford University.<br/>
+Course delivered by Stanford University on Coursera.
 <details>
   <summary>Syllabus (click to expand)</summary>
   
@@ -33,12 +36,20 @@
 > Knowledge Engineering<br/>
 </details>
 
+----
 
+### Deep Learning Specialization
+Series of 5 courses taught by Andrew Ng, Adjunct Professor of Computer Science at Stanford University.<br/>
+Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera.
 
+![Imgur](https://i.imgur.com/d9k9NWR.png)
 
+#### Neural Networks and Deep Learning ([Certificate](https://www.coursera.org/account/accomplishments/records/ZNYJ6QDPHHGH))
+<details>
+  <summary>Syllabus (click to expand)</summary>
 
-
-
-
-
-
+  > Introduction to Deep Learning<br/>
+  > Neural Networks Basics<br/>
+  > Shallow Neural Networks<br/>
+  > Deep Neural Networks<br/>
+</details>

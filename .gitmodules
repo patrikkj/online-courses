@@ -6,3 +6,7 @@
 	path = probabilistic-graphical-models (Private)
 	url = https://github.com/patrikkj/probabilistic-graphical-models.git
 	branch = master
+[submodule "deep-learning-specialization"]
+	path = deep-learning-specialization (Private)
+	url = https://github.com/patrikkj/deep-learning-specialization.git
+	branch = master

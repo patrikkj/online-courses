@@ -1,4 +1,4 @@
-### Machine Learning ([Certificate](https://coursera.org/share/5d422ee8dbc07c555ab9439d1ca2df76))
+### Machine Learning ([Certificate](https://www.coursera.org/account/accomplishments/records/XR9R5E8938SH))
 11 week course taught by Andrew Ng, Adjunct Professor of Computer Science at Stanford University.
 <details>
   <summary>Syllabus (click to expand)</summary>
@@ -18,6 +18,21 @@
 > Large Scale Machine Learning<br/>
 > Application Example: Photo OCR
 </details>
+
+
+### Probabilistic Graphical Models ([Certificate](https://www.coursera.org/account/accomplishments/records/TUDYP274U5RL))
+4 week course taught by Daphne Koller, professor at Stanford University.
+<details>
+  <summary>Syllabus (click to expand)</summary>
+  
+> Bayesian Network (Directed Models)<br/>
+> Template Models for Bayesian Networks<br/>
+> Structured CPDs for Bayesian Networks<br/>
+> Markov Networks (Undirected Models)<br/>
+> Decision Making<br/>
+> Knowledge Engineering<br/>
+</details>
+
 
 
 

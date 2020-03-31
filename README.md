@@ -53,3 +53,16 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
   > Shallow Neural Networks<br/>
   > Deep Neural Networks<br/>
 </details>
+
+
+#### Improving Deep Neural Networks ([Certificate](https://www.coursera.org/account/accomplishments/records/2YQ46U3FUWUH))
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > Practical aspects of Deep Learning<br/>
+  > Optimization algorithms<br/>
+  > Hyperparameter tuning<br/>
+  > Batch Normalization<br/>
+  > Programming Frameworks<br/>
+  > TensorFlow<br/>
+</details>

@@ -66,3 +66,17 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
   > Programming Frameworks<br/>
   > TensorFlow<br/>
 </details>
+
+
+#### Structuring Machine Learning Projects ([Certificate](https://www.coursera.org/account/accomplishments/records/RTMPZVBQR6CG))
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > Error diagnostics<br/>
+  > Promising directions for error reduction<br/>
+  > Mismatched Training/Test sets<br/>
+  > Comparing/surpassing human-level performance<br/>
+  > End-to-end learning<br/>
+  > Transfer learning<br/>
+  > Multi-task learning<br/>
+</details>

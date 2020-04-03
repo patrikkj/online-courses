@@ -80,3 +80,17 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
   > Transfer learning<br/>
   > Multi-task learning<br/>
 </details>
+
+
+#### Convolutional Neural Networks ([Certificate](https://www.coursera.org/account/accomplishments/records/SDHKR597SU7P))
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > Foundations of Convolutional Neural Networks<br/>
+  > Deep convolutional models<br/>
+  > Residual Networks<br/>
+  > Detection algorithms<br/>
+  > Car detection with YOLO<br/>
+  > Art generation with Neural Style Transfer<br/>
+  > Face Recognition<br/>
+</details>

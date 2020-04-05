@@ -38,7 +38,7 @@ Course delivered by Stanford University on Coursera.
 
 ----
 
-### Deep Learning Specialization
+### Deep Learning Specialization ([Certificate](https://www.coursera.org/account/accomplishments/specialization/4CSXVLRLUE37))
 Series of 5 courses taught by Andrew Ng, Adjunct Professor of Computer Science at Stanford University.<br/>
 Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera.
 
@@ -93,4 +93,19 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
   > Car detection with YOLO<br/>
   > Art generation with Neural Style Transfer<br/>
   > Face Recognition<br/>
+</details>
+
+
+#### Sequence Models ([Certificate](https://www.coursera.org/account/accomplishments/records/VDKX46G2DMUC))
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > Recurrent Neural Networks<br/>
+  > Character-Level Language Modeling<br/>
+  > Long Short-Term Memory<br/>
+  > Natural Language Processing<br/>
+  > Word Embeddings<br/>
+  > Attention mechanism<br/>
+  > Neural Machine Translation<br/>
+  > Trigger word detection<br/>
 </details>

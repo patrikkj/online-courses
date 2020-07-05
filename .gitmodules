@@ -10,3 +10,7 @@
 	path = deep-learning-specialization (Private)
 	url = https://github.com/patrikkj/deep-learning-specialization.git
 	branch = master
+[submodule "tensorflow-in-practice"]
+	path = tensorflow-in-practice (Private)
+	url = https://github.com/patrikkj/tensorflow-in-practice.git
+	branch = master

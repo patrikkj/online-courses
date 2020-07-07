@@ -109,3 +109,61 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
   > Neural Machine Translation<br/>
   > Trigger word detection<br/>
 </details>
+
+----
+
+### TensorFlow in Practice Specialization ([Certificate](https://www.coursera.org/account/accomplishments/specialization/QJW2CW9UE3ZV))
+Series of 4 courses taught by Laurence Moroney, Artificial Intelligence Advocate at Google Brain.<br/>
+Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera.
+
+![Imgur](https://i.imgur.com/n3DsXXq.png)
+
+#### Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning ([Certificate](https://www.coursera.org/account/accomplishments/records/WPHBTEM7K6GJ))
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > TensorFlow, Python and Google Colaboratory<br/>
+  > Computer Vision in TensorFlow<br/>
+  > Enhancing Vision with CNNs<br/>
+  > Real-world image classification<br/>
+</details>
+
+
+#### Convolutional Neural Networks in TensorFlow ([Certificate](https://www.coursera.org/account/accomplishments/records/RAH9U8E6D3VN))
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > Exploring larger datasets<br/>
+  > Image augmentation<br/>
+  > Transfer Learning<br/>
+  > Multiclass classification<br/>
+</details>
+
+
+#### Natural Language Processing in TensorFlow ([Certificate](https://www.coursera.org/account/accomplishments/records/3BLGE95BVB85))
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > Word based encodings<br/>
+  > Subwords text encoding<br/>
+  > Tokenization<br/>
+  > Word embeddings<br/>
+  > Sequence models<br/>
+  > LSTMs<br/>
+  > Word-based RNN text generation<br/>
+  > Character-based RNN text generation<br/>
+</details>
+
+
+#### Sequences, Time Series and Prediction ([Certificate](https://www.coursera.org/account/accomplishments/records/UN53FXRU23MW))
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > Evaluation metrics<br/>
+  > Forecasting<br/>
+  > Data synthesis<br/>
+  > DNNs for Time Series<br/>
+  > RNNs for Time Series<br/>
+  > Time Series convolutions<br/>
+  > Bi-directional LSTMs<br/>
+</details>

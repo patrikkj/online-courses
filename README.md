@@ -167,3 +167,42 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
   > Time Series convolutions<br/>
   > Bi-directional LSTMs<br/>
 </details>
+
+----
+
+### TensorFlow: Data and Deployment (...)
+Series of 4 courses taught by Laurence Moroney, Artificial Intelligence Advocate at Google Brain.<br/>
+Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera.
+
+![Imgur](https://i.imgur.com/6jG2mK8.png)
+
+#### Browser-based Models with TensorFlow.js ([Certificate](https://www.coursera.org/account/accomplishments/records/V8GTTHX43DV6))
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > ...<br/>
+</details>
+
+
+#### Device-based Models with TensorFlow Lite (...)
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > ...<br/>
+</details>
+
+
+#### Data Pipelines with TensorFlow Data Services (...)
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > ...<br/>
+</details>
+
+
+#### Advanced Deployment Scenarios with TensorFlow (...)
+<details>
+  <summary>Syllabus (click to expand)</summary>
+
+  > ...<br/>
+</details>

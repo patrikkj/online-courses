@@ -14,3 +14,7 @@
 	path = tensorflow-in-practice (Private)
 	url = https://github.com/patrikkj/tensorflow-in-practice.git
 	branch = master
+[submodule "tensorflow-deployment"]
+	path = tensorflow-deployment (Private)
+	url = https://github.com/patrikkj/tensorflow-deployment.git
+	branch = master

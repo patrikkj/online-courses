@@ -170,7 +170,7 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
 
 ----
 
-### TensorFlow: Data and Deployment (...)
+### TensorFlow: Data and Deployment ([Certificate](https://www.coursera.org/account/accomplishments/specialization/SECATCHBYREB))
 Series of 4 courses taught by Laurence Moroney, Artificial Intelligence Advocate at Google Brain.<br/>
 Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera.
 
@@ -184,7 +184,7 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
 </details>
 
 
-#### Device-based Models with TensorFlow Lite (...)
+#### Device-based Models with TensorFlow Lite ([Certificate](https://www.coursera.org/account/accomplishments/records/LWYQVR3NL462))
 <details>
   <summary>Syllabus (click to expand)</summary>
 
@@ -192,7 +192,7 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
 </details>
 
 
-#### Data Pipelines with TensorFlow Data Services (...)
+#### Data Pipelines with TensorFlow Data Services ([Certificate](https://www.coursera.org/account/accomplishments/records/4CYH5NVXAGVH))
 <details>
   <summary>Syllabus (click to expand)</summary>
 
@@ -200,7 +200,7 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
 </details>
 
 
-#### Advanced Deployment Scenarios with TensorFlow (...)
+#### Advanced Deployment Scenarios with TensorFlow ([Certificate](https://www.coursera.org/account/accomplishments/records/TD49EERU4WQS))
 <details>
   <summary>Syllabus (click to expand)</summary>
 

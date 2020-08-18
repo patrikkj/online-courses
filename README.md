@@ -170,7 +170,7 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
 
 ----
 
-### TensorFlow: Data and Deployment ([Certificate](https://www.coursera.org/account/accomplishments/specialization/SECATCHBYREB))
+### TensorFlow: Data and Deployment Specialization ([Certificate](https://www.coursera.org/account/accomplishments/specialization/SECATCHBYREB))
 Series of 4 courses taught by Laurence Moroney, Artificial Intelligence Advocate at Google Brain.<br/>
 Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera.
 
@@ -180,7 +180,10 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
 <details>
   <summary>Syllabus (click to expand)</summary>
 
-  > ...<br/>
+  > Introduction to TensorFlow.js<br/>
+  > Image Classification in the browser<br/>
+  > Converting models to TensorFlow.js<br/>
+  > Transfer Learning with Pre-Trained Models<br/>
 </details>
 
 
@@ -188,7 +191,12 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
 <details>
   <summary>Syllabus (click to expand)</summary>
 
-  > ...<br/>
+  > TensorFlow Lite components & architecture<br/>
+  > Persistence, performance and optimizations<br/>
+  > Model conversion and Transfer Learning<br/>
+  > Building TF models on Andriod<br/>
+  > Building TF models on iOS<br/>
+  > Building TF models on embedded systems<br/>
 </details>
 
 
@@ -196,7 +204,13 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
 <details>
   <summary>Syllabus (click to expand)</summary>
 
-  > ...<br/>
+  > Introduction to TFDS<br/>
+  > Data input pipelines<br/>
+  > Feature Column API<br/>
+  > Data transformations<br/>
+  > Data loading<br/>
+  > Parallelism APIs<br/>
+  > Publishing datasets<br/>
 </details>
 
 
@@ -204,5 +218,9 @@ Courses delivered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera
 <details>
   <summary>Syllabus (click to expand)</summary>
 
-  > ...<br/>
+  > Deployment using TFX<br/>
+  > TensorFlow Serving<br/>
+  > TensorFlow Hub<br/>
+  > Transfer learning using TF Hub<br/>
+  > Federated Learning<br/>
 </details>
